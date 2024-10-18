@@ -1,0 +1,56 @@
+Company,Employee Name,Job Title,Monthly Salary (€)
+TechCorp,Helen,Chef de projet,9500.0
+TechCorp,Quincy,Testeur,5824.0
+TechCorp,Fred,Manager,7260
+TechCorp,Steve,Chef de projet,6400
+TechCorp,Linda,Chef de projet,6800
+TechCorp,Bob,Analyste,5600
+TechCorp,Steve,Chef de projet,11300.0
+TechCorp,Karen,Développeur,4620
+TechCorp,Paul,Designer,3600
+TechCorp,Bob,Développeur,7630.0
+TechCorp,Bob,Manager,11000.0
+TechCorp,Mike,Testeur,3696
+TechCorp,Mike,Chef de projet,8900.0
+TechCorp,Charlie,Chef de projet,6400
+TechCorp,Helen,Testeur,6104.0
+DesignWorks,Jack,Analyste,6080
+DesignWorks,Emma,Designer,4080
+DesignWorks,Ian,Chef de projet,7600.0
+DesignWorks,Tina,Testeur,6104.0
+DesignWorks,Oliver,Chef de projet,10700.0
+DesignWorks,Jack,Designer,3960
+DesignWorks,Oliver,Manager,10450.0
+DesignWorks,Rachel,Testeur,4256.0
+DesignWorks,Ian,Testeur,5152.0
+DesignWorks,Jack,Chef de projet,7600.0
+DesignWorks,Rachel,Analyste,5120
+DesignWorks,Helen,Développeur,5320.0
+DesignWorks,George,Développeur,4200
+DesignWorks,Rachel,Testeur,6104.0
+DesignWorks,Emma,Chef de projet,9500.0
+DesignWorks,Mike,Manager,7040
+DesignWorks,Ian,Chef de projet,8200.0
+DesignWorks,Bob,Chef de projet,10000.0
+ProjectLead,Fred,Testeur,5992.0
+ProjectLead,Mike,Développeur,4480
+ProjectLead,Oliver,Chef de projet,7900.0
+ProjectLead,Tina,Manager,8140
+ProjectLead,Linda,Testeur,4480.0
+ProjectLead,Rachel,Designer,6540.0
+ProjectLead,Bob,Manager,11330.0
+ProjectLead,Steve,Chef de projet,9500.0
+ProjectLead,Jack,Chef de projet,6200
+ProjectLead,Jack,Designer,6180.0
+ProjectLead,Charlie,Manager,10120.0
+ProjectLead,Oliver,Développeur,4900
+ProjectLead,Nina,Analyste,7600.0
+ProjectLead,Steve,Designer,5340.0
+ProjectLead,Linda,Développeur,5110.0
+ProjectLead,Jack,Testeur,5768.0
+ProjectLead,Charlie,Chef de projet,8500.0
+
+Company,Average Salary (€),Highest Salary (€),Lowest Salary (€)
+TechCorp,6975.6,11300.0,3600.0
+DesignWorks,6748.11,10700.0,3960.0
+ProjectLead,6945.88,11330.0,4480.0

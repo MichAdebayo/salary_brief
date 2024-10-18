@@ -1,0 +1,51 @@
+Company,Employee,Job,Salary
+TechCorp,Helen,Chef de projet,9500
+TechCorp,Quincy,Testeur,5824
+TechCorp,Fred,Manager,7260
+TechCorp,Steve,Chef de projet,6400
+TechCorp,Linda,Chef de projet,6800
+TechCorp,Bob,Analyste,5600
+TechCorp,Steve,Chef de projet,11300
+TechCorp,Karen,Développeur,4620
+TechCorp,Paul,Designer,3600
+TechCorp,Bob,Développeur,7630
+TechCorp,Bob,Manager,11000
+TechCorp,Mike,Testeur,3696
+TechCorp,Mike,Chef de projet,8900
+TechCorp,Charlie,Chef de projet,6400
+TechCorp,Helen,Testeur,6104
+DesignWorks,Jack,Analyste,6080
+DesignWorks,Emma,Designer,4080
+DesignWorks,Ian,Chef de projet,7600
+DesignWorks,Tina,Testeur,6104
+DesignWorks,Oliver,Chef de projet,10700
+DesignWorks,Jack,Designer,3960
+DesignWorks,Oliver,Manager,10450
+DesignWorks,Rachel,Testeur,4256
+DesignWorks,Ian,Testeur,5152
+DesignWorks,Jack,Chef de projet,7600
+DesignWorks,Rachel,Analyste,5120
+DesignWorks,Helen,Développeur,5320
+DesignWorks,George,Développeur,4200
+DesignWorks,Rachel,Testeur,6104
+DesignWorks,Emma,Chef de projet,9500
+DesignWorks,Mike,Manager,7040
+DesignWorks,Ian,Chef de projet,8200
+DesignWorks,Bob,Chef de projet,10000
+ProjectLead,Fred,Testeur,5992
+ProjectLead,Mike,Développeur,4480
+ProjectLead,Oliver,Chef de projet,7900
+ProjectLead,Tina,Manager,8140
+ProjectLead,Linda,Testeur,4480
+ProjectLead,Rachel,Designer,6540
+ProjectLead,Bob,Manager,11330
+ProjectLead,Steve,Chef de projet,9500
+ProjectLead,Jack,Chef de projet,6200
+ProjectLead,Jack,Designer,6180
+ProjectLead,Charlie,Manager,10120
+ProjectLead,Oliver,Développeur,4900
+ProjectLead,Nina,Analyste,7600
+ProjectLead,Steve,Designer,5340
+ProjectLead,Linda,Développeur,5110
+ProjectLead,Jack,Testeur,5768
+ProjectLead,Charlie,Chef de projet,8500
