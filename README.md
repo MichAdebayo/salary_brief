@@ -1,6 +1,6 @@
 # Salary Manager
 
-<img src="https://github.com/user-attachments/assets/987306ae-132e-49e0-b4aa-e4ade8643ab0" height= "200px" width="400">
+<img src="https://github.com/user-attachments/assets/987306ae-132e-49e0-b4aa-e4ade8643ab0" height= "300px" width="1000px">
 
 
 ## Overview
