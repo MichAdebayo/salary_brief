@@ -1,6 +1,10 @@
 # Salary Manager
 
-This end-to-end salary data processing, analysis, and visualization toolkit. This repository includes:
+## Overview
+
+The salary manager project calculates employee salaries for a company with three subsidiaries. The goal of the project is to determine the average, maximum and minimum salary of the compnay, both on a global scale and on a per subsdiary basis. The final results are vizualized using streamlit. 
+
+data processing, analysis, and visualization . This repository includes:
   - Raw data loading and cleaning (_load_data.py_, _employees_data.json_).  
   - Export pipelines to generate subsidiary and global statistics (_export_data.py_, _salary_accounting.py_).  
   - Batch reporting and console output scripts (_display_results.py_, _main.py_).  
@@ -64,28 +68,6 @@ This end-to-end salary data processing, analysis, and visualization toolkit. Thi
 ### ProjectLead
 ![ProjectLead Stats](Console_screenshots/ProjectLeadstats.png)
 
----
-
-## Repository Structure
-
-```mermaid
-graph TD
-	 A[salary_brief/]
-	 A --> B(salary_manager_v2.py)
-	 A --> C(salary_manager_v1.py)
-	 A --> D(salary_statistics_streamlit.csv)
-	 A --> E(load_data.py)
-	 A --> F(export_data.py)
-	 A --> G(display_results.py)
-	 A --> H(salary_accounting.py)
-	 A --> I(requirements.txt)
-	 A --> J(Console_screenshots/)
-	 J --> J1(DesignWorks_stats.png)
-	 J --> J2(Global_stats.png)
-	 J --> J3(ProjectLeadstats.png)
-	 J --> J4(TechCorp_stats.png)
-	 A --> K(__pycache__/)
-```
 
 ---
 
