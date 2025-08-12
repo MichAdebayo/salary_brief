@@ -9,16 +9,15 @@ The Salary Manager project performs salary computation and analysis for a compan
   - Export pipelines to generate subsidiary and global salary statistics ( _salary_accounting.py_).  
   - Batch report the results and print the output to console (_display_results.py_, _main.py_).  
   - Export the results in CSV format (_export_data.py_, _main.py_). 
-  - Interactive dashboard for visual exploration (_salary_manager_v2.py_).  
+  - Interactive dashboard for visual exploration (_salary_manager_v2.py_, _salary_manager_v1.py_).  
 
 ---
 
 ## Features
 
-- **Data loading & cleaning**: `load_data.py` ingests raw JSON/CSV, normalizes columns, and handles missing values.
-- **Automated exports**: `export_data.py` and `salary_accounting.py` generate CSV reports for 3 and 8 subsidiaries, plus a consolidated streamlit CSV.
+- **Data loading**: `load_data.py` ingests raw employee data from JSON.
+- **Automated exports**: `export_data.py` and `salary_accounting.py` generate CSV reports for subsidiaries, plus a consolidated streamlit CSV.
 - **Batch reporting**: `display_results.py` and `main.py` print console summaries for each company and global statistics.
-- **Prototyping notebook**: `salary_calculator_company_subsidiaries.ipynb` demonstrates salary calculations across multiple subsidiaries.
 - **Interactive dashboard**: `salary_manager_v2.py` provides filtering, KPIs, charts (boxplots, bar charts, heatmaps), and CSV download.
 
 ---
@@ -73,7 +72,7 @@ The Salary Manager project performs salary computation and analysis for a compan
 
 ## Notes
 
-- **Data updates**: To use new data, replace `salary_statistics_streamlit.csv` and restart the app.
+- **Data updates**: To use new data, replace `salary_statistics_streamlit.csv` and restart the app. Ensure you have a similar data format.
 - **Customization**: You can extend the dashboard by editing `salary_manager_v2.py` and adding new charts or filters.
 - **Legacy scripts**: Older scripts are kept for reference and batch processing; all dashboard features are now in v2.
 
@@ -81,8 +80,5 @@ The Salary Manager project performs salary computation and analysis for a compan
 
 ## License
 
-MIT License (or specify your own).
-
+This project is licensed under the MIT License.
 ---
-
-If you have any issues or want to contribute, feel free to open an issue or pull request!
