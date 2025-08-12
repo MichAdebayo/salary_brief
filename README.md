@@ -4,12 +4,12 @@
 
 The Salary Manager project performs salary computation and analysis for a company comprising three subsidiaries. It calculates the monthly salaries for all employees as well as the average, maximum, and minimum salaries at both the overall company level and individually for each subsidiary. Data processing and analysis are implemented using a modular architecture, ensuring a clear separation of responsibilities across different files and components. The final results are presented through an interactive Streamlit application, enabling intuitive visualization and exploration of the computed metrics.
 
- This repository includes:
-  - Raw data loading and cleaning (_load_data.py_, _employees_data.json_).  
-  - Export pipelines to generate subsidiary and global statistics (_export_data.py_, _salary_accounting.py_).  
-  - Batch reporting and console output scripts (_display_results.py_, _main.py_).  
+ This repository includes files that:
+  - Load raw data (_load_data.py_).  
+  - Export pipelines to generate subsidiary and global salary statistics ( _salary_accounting.py_).  
+  - Batch report the results and print the output to console (_display_results.py_, _main.py_).  
+  - Export the results in CSV format (_export_data.py_, _main.py_). 
   - Interactive dashboard for visual exploration (_salary_manager_v2.py_).  
-  - Jupyter notebook for prototyping company-level salary calculators (_salary_calculator_company_subsidiaries.ipynb_).
 
 ---
 
