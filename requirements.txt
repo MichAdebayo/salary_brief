@@ -2,3 +2,4 @@ json5==0.9.25
 pandas==2.2.3
 streamlit==1.39.0
 ipykernel==6.30.1
+altair==5.4.1
