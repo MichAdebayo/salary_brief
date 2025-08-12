@@ -1,5 +1,7 @@
 # Salary Manager
 
+![Image](https://github.com/user-attachments/assets/987306ae-132e-49e0-b4aa-e4ade8643ab0)
+
 ## Overview
 
 The Salary Manager project performs salary computation and analysis for a company comprising three subsidiaries. It calculates the monthly salaries for all employees as well as the average, maximum, and minimum salaries at both the overall company level and individually for each subsidiary. Data processing and analysis are implemented using a modular architecture, ensuring a clear separation of responsibilities across different files and components. The final results are presented through an interactive Streamlit application, enabling intuitive visualization and exploration of the computed metrics.
@@ -81,4 +83,3 @@ The Salary Manager project performs salary computation and analysis for a compan
 ## License
 
 This project is licensed under the MIT License.
----
