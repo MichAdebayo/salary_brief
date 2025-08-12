@@ -17,8 +17,7 @@ st.table(filtered_df[['Employee', 'Job', 'Salary']])
 
 # Search for an employee
 st.sidebar.write("Search for an Employee")
-employee_name = st.sidebar.text_input("Enter employee name:")
-if employee_name:
+if employee_name := st.sidebar.text_input("Enter employee name:"):
     search_results = df[df['Employee'].str.contains(employee_name, case=False)]
     st.write(f"Search Results for {employee_name}:")
     if search_results.empty:
